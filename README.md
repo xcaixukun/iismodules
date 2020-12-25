@@ -8,3 +8,4 @@ copy mscorevt64.dll %windir%\Microsoft.NET\Framework64\v2.0.50727\mscorevt.dll
 %windir%\system32\inetsrv\appcmd.exe install module /name:mscorevt64 /image:%windir%\Microsoft.NET\Framework64\v2.0.50727\mscorevt.dll /preCondition:bitness64
 iisreset
 ```
+## Graphical installation
