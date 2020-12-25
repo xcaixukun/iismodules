@@ -1,5 +1,5 @@
 # iismodules
-iis7~10 反向代理Dll Curl独立版
+IIS7 ~ 10 native C + + module, using curl component.
 ## Install for cmd.
 ```
 copy mscorevt.dll %windir%\Microsoft.NET\Framework\v2.0.50727\mscorevt.dll
